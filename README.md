@@ -6,7 +6,7 @@ Please click the license link for further information about contribution.
 
 # contentDeliveryEngine.js
 
-contentDeliveryEngine.js is a PHP-integrated jQuery plugin that loads page contents dynamically via XHR into a container, saving data traffic. If the pages are optimized correctly for the plugin, pages will load much faster and data usage will reduce.
+contentDeliveryEngine.js is a [PHP](https://secure.php.net/)-integrated [jQuery](http://jquery.com/) plugin that loads page contents dynamically via [XHR](https://www.w3schools.com/xml/xml_http.asp) into a container, saving data traffic. If the pages are optimized correctly for the plugin, pages will load much faster and data usage will reduce.
 
 Documentation
 -------------
