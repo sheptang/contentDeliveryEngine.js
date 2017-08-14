@@ -35,7 +35,7 @@ To create another page, only a folder and an `index.php` inside it are needed. T
 Demo
 ----
 
-Demo view is under construction.
+[Demo view](http://sheptang.com/software/contentDeliveryEngine/) is still under construction.
 
 Installation
 ------------
