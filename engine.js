@@ -1,4 +1,9 @@
+/*
 
+contentDeliveryEngine.js  Copyright (C) 2017  Anıl Yarkın Yücel - GNU General Public License v3.0
+http://sheptang.com/software/contentDeliveryEngine/
+
+*/
 //	SETUP BEGINS
 
 //id of the container div to load pages in
