@@ -1,2 +1,2 @@
 *.css linguist-vendored=true
-*.js linguist-vendored=false
+page1/index.php linguist-vendored=false
