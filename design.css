@@ -1,0 +1,21 @@
+html,body{
+	width:100%;
+	height:100%;
+	padding:0;
+	margin:0;
+	border:none;
+	outline:none;
+}
+
+body{
+	padding:50px 0 0 50px;
+}
+
+*{
+	font-family:"Arial",sans-serif;
+}
+
+#navContainer .nav, #homelink, .link{
+	cursor:pointer;
+	user-select:none;
+}
